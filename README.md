@@ -49,19 +49,19 @@ Start the app
 ![home page](screenshot/homepage.png)
 
 - Search Cryptocurrency
-![search currency](screenshots/search.png)
+![search currency](screenshot/search.png)
 
 - Cointable 
-![cointable](screenshots/cointable.png)
+![cointable](screenshot/cointable.png)
 
 - Switch Country currency
-![switch currency](screenshots/switchcurrency.png)
+![switch currency](screenshot/switchcurrency.png)
 
 - Navigation
-![navigation](screenshots/navigation.png)
+![navigation](screenshot/navigation.png)
 
 - Coin chart
-![coinchart](screenshots/coinchart.png)
+![coinchart](screenshot/coinchart.png)
 
 
 ## More Functionalities
