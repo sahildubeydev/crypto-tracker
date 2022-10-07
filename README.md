@@ -3,7 +3,7 @@
 
 - This is a mobile responsive web application project made to help user to check the prices of crypto currencies.
 
-- This project uses Cryptocurrency API for real time track of price rate.
+- This project uses Cryptocurrency API for real time track of crypto price.
 ## Built with
 
 - React JS
