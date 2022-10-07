@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-    cd crypto-tracker
+  cd crypto-tracker
 ```
 
 Install dependencies
