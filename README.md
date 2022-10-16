@@ -40,7 +40,7 @@ Start the app
 ```
 
 ## Features
-- Switch currency
+- Switch between National currency i.e. INR & USD
 - Search Cryptocurrency
 - 1 Day, month, year chart
 
