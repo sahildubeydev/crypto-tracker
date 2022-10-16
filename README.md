@@ -67,7 +67,7 @@ Start the app
 ## More Functionalities
 
 This application still has many functionalities 
-that has not been implemented yet custom user profile, wishlist etc.
+that has not been implemented yet such as custom user profile, wishlist etc.
 ## Author
 
 - [@sahildubey](https://github.com/sahildubeydev)
