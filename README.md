@@ -61,7 +61,7 @@ Start the app
 ![navigation](screenshot/navigation.png)
 
 - Coin chart
-![coinchart](screenshot/coinchart.png)
+![coinchart](screenshot/coinchart1.png)
 
 
 ## More Functionalities
