@@ -46,19 +46,19 @@ Start the app
 
 ## Screenshots
 - Home Page
-![home page](screenshot/homepage.png)
+![homepage](https://user-images.githubusercontent.com/48377225/212224095-249ebaf2-c225-4c00-93a8-862b6e61d8f4.png)
 
 - Search Cryptocurrency
-![search currency](screenshot/search.png)
+![search_currency](https://user-images.githubusercontent.com/48377225/212224154-8457597f-4c47-4622-876d-cfdbed12a0d9.png)
 
 - Cointable 
-![cointable](screenshot/cointable.png)
+![cointable](https://user-images.githubusercontent.com/48377225/212224206-9840bce2-91ff-42fa-9657-97e6831bcc3e.png)
 
 - Switch Country currency
-![switch currency](screenshot/switchcurrency.png)
+![switchcurrency](https://user-images.githubusercontent.com/48377225/212224263-5db2aff9-e4d7-44d1-8548-bbe1fa084924.png)
 
 - Navigation
-![navigation](screenshot/navigation.png)
+![navigation](https://user-images.githubusercontent.com/48377225/212224291-28b5b71d-7ba5-46a6-ad88-9a9ad7bd3f74.png)
 
 - Coin chart
 ![coinchart](https://user-images.githubusercontent.com/48377225/212223988-63907f34-68d9-4d80-8444-288d0957c266.png)
